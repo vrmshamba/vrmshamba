@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vrmshamba
 - 👀 I’m interested in ML/AI
-- 🌱 I’m currently learning pythin
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects in the same field
 - 📫 How to reach me onsusanngatia@gmail.com
 
